@@ -47,7 +47,7 @@
 					<products>
 						<product>
 							<id>org.eclipse.smarthome.designer.product</id>
-						  <rootFolder></rootFolder>
+						  <rootFolder/>
 						  <rootFolders>
 							<macosx>Eclipse SmartHome Designer.app</macosx>
 						  </rootFolders>
@@ -117,7 +117,7 @@
 			<dependency>
 			    <groupId>org.apache.felix</groupId>
 			    <artifactId>org.apache.felix.webconsole</artifactId>
-			    <version>3.0.0</version>
+			    <version>4.3.12</version>
 			</dependency>
 			<dependency>
 			    <groupId>org.apache.felix</groupId>
